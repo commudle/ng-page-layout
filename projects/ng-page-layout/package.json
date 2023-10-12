@@ -1,7 +1,25 @@
 {
   "name": "@commudle/ng-page-layout",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "description": "Streamline page layout creation in your Angular applications with ease. This NPM library offers a user-friendly solution, featuring a main column and a right column for effortless UI structuring.",
   "license": "MIT",
+  "keywords": [
+    "angular",
+    "ng",
+    "page",
+    "layout",
+    "component",
+    "directive",
+    "commudle"
+  ],
+  "bugs": {
+    "url": "https://github.com/commudle/ng-page-layout/issues"
+  },
+  "homepage": "https://github.com/commudle/ng-page-layout/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/commudle/ng-page-layout.git"
+  },
   "peerDependencies": {
     "@angular/common": "^14.2.0",
     "@angular/core": "^14.2.0"
