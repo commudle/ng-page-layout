@@ -1,6 +1,6 @@
 # ng-image-container
 
-ng-page-layout: Streamline page layout creation in your Angular applications with ease. This NPM library offers a user-friendly solution, featuring a main column and a right column for effortless UI structuring.
+Angular component to generate standardized and responsive page layout grid configurations for your web app. No need to worry about padding/margins, just set this up and start using
 
 ![npm](https://img.shields.io/npm/v/%40commudle%2Fng-page-layout?logo=npm&link=https%3A%2F%2Fgithub.com%2Fcommudle%2Fng-page-layout)
 ![NPM](https://img.shields.io/npm/l/%40commudle%2Fng-page-layout)

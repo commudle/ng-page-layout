@@ -2,6 +2,7 @@
   "name": "@commudle/ng-page-layout",
   "version": "1.0.0",
   "license": "MIT",
+  "description": "Angular component to generate standardized and responsive page layout grid configurations for your web app. No need to worry about padding/margins, just set this up and start using",
   "keywords": [
     "angular",
     "ng",

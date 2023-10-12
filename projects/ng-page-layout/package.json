@@ -1,7 +1,7 @@
 {
   "name": "@commudle/ng-page-layout",
   "version": "1.0.0",
-  "description": "Streamline page layout creation in your Angular applications with ease. This NPM library offers a user-friendly solution, featuring a main column and a right column for effortless UI structuring.",
+  "description": "Angular component to generate standardized and responsive page layout grid configurations for your web app. No need to worry about padding/margins, just set this up and start using",
   "license": "MIT",
   "keywords": [
     "angular",
