@@ -1,7 +1,25 @@
 {
   "name": "@commudle/ng-page-layout",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "description": "Angular component to generate standardized and responsive page layout grid configurations for your web app. No need to worry about padding/margins, just set this up and start using",
   "license": "MIT",
+  "keywords": [
+    "angular",
+    "ng",
+    "page",
+    "layout",
+    "component",
+    "directive",
+    "commudle"
+  ],
+  "bugs": {
+    "url": "https://github.com/commudle/ng-page-layout/issues"
+  },
+  "homepage": "https://github.com/commudle/ng-page-layout/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/commudle/ng-page-layout.git"
+  },
   "peerDependencies": {
     "@angular/common": "^14.2.0",
     "@angular/core": "^14.2.0"
