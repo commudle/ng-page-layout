@@ -8,7 +8,9 @@ Angular component to generate standardized and responsive page layout grid confi
 ng-page-layout is an NPM library that simplifies the process of creating page layouts with two main components: a main column and a left column. It is designed to be used with Angular applications, providing a convenient way to structure your user interfaces.
 
 **Demo:**
-<!-- [Preview](https://www.commudle.com/communities/cdn-commudle-developer-network/events/connectivity-and-storage-in-docker-containers) -->
+[Preview 1](https://www.commudle.com/communities)
+[Preview 2](https://www.commudle.com/labs)
+[Preview 3](https://www.commudle.com/communities/cdn-commudle-developer-network/events/connectivity-and-storage-in-docker-containers)
 
 ## Table of Contents
 
