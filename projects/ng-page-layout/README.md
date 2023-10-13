@@ -1,4 +1,4 @@
-# ng-image-container
+# ng-page-layout
 
 Angular component to generate standardized and responsive page layout grid configurations for your web app. No need to worry about padding/margins, just set this up and start using
 
